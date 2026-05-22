@@ -1,0 +1,43 @@
+gitnexus/src/cli/index.ts
+  e8f4682b28dff7d7 157-160
+gitnexus/src/cli/wiki.ts
+  e8f4682b28dff7d7 22,59-68,205,207-209,220,246,249,257,260,262-267,274,276-297,301,309-312,315,318-320,323
+gitnexus/src/core/wiki/llm-client.ts
+  e8f4682b28dff7d7 12-19,28,54-64,83-84,87
+gitnexus/test/integration/cli-e2e.test.ts
+  e8f4682b28dff7d7 1002-1003,1072-1084
+gitnexus/test/unit/wiki-flags.test.ts
+  e8f4682b28dff7d7 2,5,8,85-129,165-209,814,820-822,849,854-943,946,952-954,981,1011-1099
+gitnexus/test/unit/cli-index-help.test.ts
+  e8f4682b28dff7d7 61-62
+gitnexus/src/core/wiki/generator.ts
+  e8f4682b28dff7d7 42,207,221-228
+gitnexus/src/core/wiki/local-cli-client.ts
+  e8f4682b28dff7d7 1-290
+gitnexus/src/server/api.ts
+  e8f4682b28dff7d7 719-725
+gitnexus/src/storage/repo-manager.ts
+  e8f4682b28dff7d7 936,938-939
+gitnexus/test/unit/rate-limit.test.ts
+  e8f4682b28dff7d7 259-263
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "07e11f0ca57b5c588415f397d6a83f414fd5d76c",
+  "prompts": {
+    "e8f4682b28dff7d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e498b-2933-7911-8745-47b7d26c985c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "eddie.pan2 <eddie.pan2@jtexpress.com>",
+      "messages": [],
+      "total_additions": 1814,
+      "total_deletions": 122,
+      "accepted_lines": 707,
+      "overriden_lines": 0
+    }
+  }
+}
